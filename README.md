@@ -42,9 +42,3 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 <hr>
-
-<h3 align='center'>Statistics</h3>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=salex06&show_icons=true&hide_border=true&theme=dark&count_private=true&line_height=28">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salex06&&langs_count=12&layout=compact&theme=dark&hide_border=true">
-</div>
