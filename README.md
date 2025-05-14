@@ -6,9 +6,9 @@
 - 📚 I'm a student at the backend academy at T-Bank<br>
 - 📫 How to reach me: <a href="https://t.me/salex9206">Telegram</a>
 
-<h3 align="center">🛠 Badges</h2>
-
 <hr>
+
+<h3 align="center">🛠 Badges</h2>
 
 ![java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
