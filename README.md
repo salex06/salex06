@@ -1,52 +1,98 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hello!</h1>
+![](https://komarev.com/ghpvc/?username=salex06)
+<!--Приветствие-->
+<h1 align="center">Hi there, I'm Alex👋</h1>
+<h3 align="center">Software engineering student, Java Backend developer</h3>
+<br>
 
-<b> I'm Alex, Java backend developer and student</b></p>
+<!--About-->
 - 🧑‍💻 The main language today is `Java`<br>
-- 🔭 I’m currently studying software engineering at PSU<br>
-- 📚 I'm a student at the backend academy at T-Bank<br>
-- 📫 How to reach me: <a href="https://t.me/salex9206">Telegram</a>
-
+- 🔭 Currently studying software engineering at Penza State University<br>
+- 📚 Backend Academy student at T-Bank (Java, SRE)<br>
 <hr>
 
-<h3 align="center">🛠 Badges</h2>
-
-![java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![Lombok](https://img.shields.io/badge/lombok-green?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JS](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff)
-![NuGet](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=fff)
-![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
-<hr>
-
-<h3 align='center'>📊 Statistics</h3>
-
-<p align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salex06&theme=dark&layout=compact&border_color=61dafb&hide_border=true"  width="43%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=salex06&show_icons=true&hide_border=true&theme=dark&count_private=true&line_height=20">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salex06&theme=dark&bg_color=20232a&hide_border=true" width="100%"/>
+<!--Contacts-->
+<h3 align="center">📫 Contacts</h3>
+<br>
+<p align="center">
+  <a href="https://t.me/salex9206"><img width="48" height="48" alt="Telegram" src="https://github.com/user-attachments/assets/06f59c0a-9474-468e-9200-36adeae37163" align="center"/></a>
+  <a href="https://vk.com/smthngoriginl"><img width="48" height="48" alt="Vk" src="https://github.com/user-attachments/assets/31ae0803-0fba-4811-adb9-ae76f5a2e850" align="center"/></a>
+  <a href="mailto:salex.9206@mail.ru"><img width="48" height="48" alt="Email" src="https://github.com/user-attachments/assets/6880c85c-0ec7-49f5-9165-6430c445021e" align="center"/></a>
 </p>
+<hr>
+
+<!--Skills-->
+<h3 align="center">🛠 Skills</h2>
+
+<h4>💻Languages: </h4>
+<p>
+  <img alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="5%"/>
+  <img alt="C#" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="5%"/>
+  <img alt="C++" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="5%"/>
+  <img alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="5%"/>
+  <img alt="JS" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="5%"/>
+</p>
+<br>
+<h4>💾Databases and tools: </h4>
+<p>
+  <img alt="PostgreSQL" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="5%"/>
+  <img alt="Redis" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="5%"/>
+  <img alt="Hibernate" src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg" width="5%"/>
+  <img alt="Liquibase" src="https://github.com/devicons/devicon/blob/master/icons/liquibase/liquibase-original.svg" width="5%"/>
+  <img alt="MongoDB" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="5%"/>
+  <img alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="5%"/>
+  <img alt="SQLite" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="5%"/>
+</p>
+<br>
+<h4>⚙️Frameworks/Platforms/Libs: </h4>
+<p>
+    <img alt="Spring" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="5%"/>
+    <img alt=".Net" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="5%"/>
+    <img alt="Qt" src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" width="5%"/>
+    <img alt="jQuery" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="5%"/>
+</p>
+<br>
+<h4>🔎Testing: </h4>
+<p>
+  <img alt="Postman" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="5%"/>
+  <img alt="JUnit" src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original-wordmark.svg" width="5%"/>
+  <img alt="Mockito" src="https://github.com/mockito/mockito-artwork/blob/master/2015-03-25/mockito-logo_25-03.svg?ysclid=mesoasnywn855117336" width="5%"/>
+  <img alt="Testcontainers" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/testcontainers.png" width="5%"/>
+</p>
+<br>
+<h4>📈Metrics: </h4>
+<p>
+  <img alt="Grafana" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/grafana/grafana-original.svg" width="5%"/>
+  <img alt="Prometheus" src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" width="5%"/>
+  <img alt="Micrometer" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/micrometer.png" width="5%"/>
+</p>
+<br>
+<h4>🤖IDE: </h4>
+<p>
+  <img alt="Intellij" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="5%"/>
+  <img alt="PyCharm" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="5%"/>
+  <img alt="VS" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="5%"/>
+  <img alt="VS Code" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="5%"/>
+  <img alt="Eclipse" src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" width="5%"/>
+</p>
+<br>
+<h4>✏️Other tools: </h4>
+<p>
+  <img alt="" src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" width="5%"/>
+  <img alt="" src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" width="5%"/>
+  <img alt="" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" width="5%"/>
+  <img alt="" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="5%"/>
+  <img alt="" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="5%"/>
+  <img alt="" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="5%"/>
+</p>
+<hr>
+
+<!--Stats-->
+<h3 align='center'>📊 Stats</h3>
+<p align=center>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salex06&theme=vue&layout=compact&border_color=black&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=salex06&show_icons=true&hide_border=false&theme=vue&count_private=true&line_height=20"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salex06&theme=github-light" width="100%"/>
+  <img src="https://leetcard.jacoblin.cool/salex06?ext=heatmap"/>
+</p>
+
+
