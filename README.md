@@ -5,7 +5,7 @@
 <br>
 
 <!--About-->
-- 🧑‍💻 The main language today is `Java`<br>
+- 🧑‍💻 The main language today is `Java`. I'm also learning `Golang`<br>
 - 🔭 Currently studying software engineering at Penza State University<br>
 - 📚 Backend Academy student at T-Bank (Java, SRE)<br>
 <hr>
@@ -26,10 +26,8 @@
 <h4>💻Languages: </h4>
 <p>
   <img alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="5%"/>
-  <img alt="C#" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="5%"/>
+  <img alt="Go" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="5%"/>
   <img alt="C++" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="5%"/>
-  <img alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="5%"/>
-  <img alt="JS" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="5%"/>
 </p>
 <br>
 <h4>💾Databases and tools: </h4>
@@ -69,10 +67,8 @@
 <h4>🤖IDE: </h4>
 <p>
   <img alt="Intellij" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="5%"/>
-  <img alt="PyCharm" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="5%"/>
   <img alt="VS" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="5%"/>
   <img alt="VS Code" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="5%"/>
-  <img alt="Eclipse" src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" width="5%"/>
 </p>
 <br>
 <h4>✏️Other tools: </h4>
