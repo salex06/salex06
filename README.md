@@ -1,11 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=salex06)
 <!--Приветствие-->
 <h1 align="center">Hi there, I'm Alex👋</h1>
-<h3 align="center">Software engineering student, Java Backend developer</h3>
+<h3 align="center">Software engineering student, backend developer</h3>
 <br>
 
 <!--About-->
-- 🧑‍💻 The main language today is `Java`. I'm also learning `Golang`<br>
+- 🧑‍💻 The main languages today are `Java` and `Golang`<br>
 - 🔭 Currently studying software engineering at Penza State University<br>
 - 📚 Backend Academy student at T-Bank (Java, SRE)<br>
 <hr>
