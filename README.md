@@ -7,7 +7,7 @@
 <!--About-->
 - 🧑‍💻 The main languages today are `Java` and `C++`<br>
 - 🔭 Currently studying software engineering at Penza State University<br>
-- 📚 Backend Academy student at T-Bank (Java, SRE)<br>
+- 📚 Backend Academy graduate at T-Bank (Java, SRE)<br>
 <hr>
 
 <!--Contacts-->
